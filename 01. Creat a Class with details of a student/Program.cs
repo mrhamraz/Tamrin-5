@@ -36,7 +36,7 @@ namespace _01._Creat_a_Class_with_details_of_a_student
 
             public void Print()
             {
-                Console.WriteLine($"Name: {firstName} \nLast Name: {lastName} \nAge: {age} \nGrade: {grade} \nSchool Name: {schoolName} ");
+                Console.WriteLine($"\nName: {firstName} \nLast Name: {lastName} \nAge: {age} \nGrade: {grade} \nSchool Name: {schoolName} ");
             }
         }
     }
