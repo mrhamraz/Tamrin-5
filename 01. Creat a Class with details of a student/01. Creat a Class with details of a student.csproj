@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_01._Creat_a_Class_with_details_of_a_student</RootNamespace>
+  </PropertyGroup>
+
+</Project>
