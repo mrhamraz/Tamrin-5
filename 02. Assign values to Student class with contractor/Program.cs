@@ -32,8 +32,9 @@ namespace _02._Assign_values_to_Student_class_with_contractor
             {
                 firstName = "default";
                 lastName = "default";
-                age = "default";
-                grade = "default";
+                age = 0;
+                grade = 0;
+                schoolName = "default";
             }
 
             public Student(string fname,string lname)
