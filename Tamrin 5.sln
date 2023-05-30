@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Creat a Class with details of a student", "01. Creat a Class with details of a student\01. Creat a Class with details of a student.csproj", "{98E97336-747B-4897-ABB3-3429F3E03CD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Assign values to Student class with contractor", "02. Assign values to Student class with contractor\02. Assign values to Student class with contractor.csproj", "{C4ED2E40-9E06-411E-9E05-17E21EFBBCF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{98E97336-747B-4897-ABB3-3429F3E03CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98E97336-747B-4897-ABB3-3429F3E03CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98E97336-747B-4897-ABB3-3429F3E03CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4ED2E40-9E06-411E-9E05-17E21EFBBCF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4ED2E40-9E06-411E-9E05-17E21EFBBCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4ED2E40-9E06-411E-9E05-17E21EFBBCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4ED2E40-9E06-411E-9E05-17E21EFBBCF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
