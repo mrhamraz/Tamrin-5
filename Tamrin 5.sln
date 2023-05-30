@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Creat a Class with deta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Assign values to Student class with contractor", "02. Assign values to Student class with contractor\02. Assign values to Student class with contractor.csproj", "{C4ED2E40-9E06-411E-9E05-17E21EFBBCF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Olympiad qualify check with student class", "03. Olympiad qualify check with student class\03. Olympiad qualify check with student class.csproj", "{51E21400-A0DA-4150-A14E-198C4E54FF9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C4ED2E40-9E06-411E-9E05-17E21EFBBCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4ED2E40-9E06-411E-9E05-17E21EFBBCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4ED2E40-9E06-411E-9E05-17E21EFBBCF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E21400-A0DA-4150-A14E-198C4E54FF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E21400-A0DA-4150-A14E-198C4E54FF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E21400-A0DA-4150-A14E-198C4E54FF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E21400-A0DA-4150-A14E-198C4E54FF9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

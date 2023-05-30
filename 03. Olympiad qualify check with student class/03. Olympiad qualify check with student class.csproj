@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_03._Olympiad_qualify_check_with_student_class</RootNamespace>
+  </PropertyGroup>
+
+</Project>
