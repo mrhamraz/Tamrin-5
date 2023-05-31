@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Olympiad qualify check 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Teacher class with constructor", "04. Teacher class with constructor\04. Teacher class with constructor.csproj", "{60947EFF-9D0F-4248-A3BF-8492410E9BA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Ranking of teachers based on salary", "05. Ranking of teachers based on salary\05. Ranking of teachers based on salary.csproj", "{3C80D8FC-008F-4983-BCCC-016780D38D38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{60947EFF-9D0F-4248-A3BF-8492410E9BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60947EFF-9D0F-4248-A3BF-8492410E9BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60947EFF-9D0F-4248-A3BF-8492410E9BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C80D8FC-008F-4983-BCCC-016780D38D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C80D8FC-008F-4983-BCCC-016780D38D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C80D8FC-008F-4983-BCCC-016780D38D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C80D8FC-008F-4983-BCCC-016780D38D38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
